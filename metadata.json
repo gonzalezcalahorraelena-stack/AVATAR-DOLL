@@ -1,0 +1,6 @@
+{
+  "name": "Avatar Maestro",
+  "description": "Motor interactivo de creación de avatares 2D de alta gama con 4 estilos de arte, capas Z-index, habitaciones y exportación HD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
